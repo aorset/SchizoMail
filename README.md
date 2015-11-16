@@ -1,4 +1,4 @@
-# MailSystem
-A stupid mailsystem done for the exercise
+# SchizoMail
+A mail system for schizophrenics
 
-Yep this is a stupid mail app that doesn't send any mails to anyone except for itself.
+With this mail app you can send mails between your personalities. Will never reveal your mailings to outsiders as the system is completely closed and doesn't save anything to disk.
